@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Retrofit2WithKotlin</string>
+    <string name="hint_search_string">Type your word</string>
+    <string name="button_search">Search</string>
+</resources>
